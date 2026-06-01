@@ -1,121 +1,151 @@
-# Hi 👋, I'm Syam Prasad K
+<h1 align="center">👋 Hi, I'm Syam Prasad K</h1>
 
-### Full Stack Web Developer | React.js | Next.js | Node.js
+<h3 align="center">
+Full Stack Web Developer | React.js | Next.js | Node.js
+</h3>
 
-I'm a passionate Full-Stack Web Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy solving real-world problems through technology and continuously learning modern development tools and AI-assisted workflows.
+<p align="center">
+<a href="https://syamprasad.xyz">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/syam-prasad-k-568849375?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/syamprasadkalarikkal">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA)
-- 🏫 University of Calicut
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning Advanced Next.js, System Design, and Cloud Technologies
-- 🔭 Building real-world SaaS and E-Commerce applications
-- 🤝 Open to Internship and Junior Developer opportunities
-- ⚡ Interested in AI-powered development and automation
+```javascript
+const syam = {
+  role: "Full Stack Web Developer",
+  education: "BCA Student",
+  location: "Kerala, India",
+  frontend: ["React.js", "Next.js"],
+  backend: ["Node.js", "Express.js"],
+  database: ["PostgreSQL", "MySQL", "Supabase"],
+  currentlyBuilding: ["PrintQ", "E-Commerce Projects"],
+  learning: ["System Design", "Cloud", "AI Workflows"],
+  motto: "Build solutions that solve real problems."
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Next.js
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
 
 ### Database
-- PostgreSQL
-- MySQL
-- Supabase
 
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+
+![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
 
 ---
 
-## 📌 Featured Projects
+### Tools
 
-### 🛒 E-Commerce Platform
-A full-stack e-commerce application featuring:
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
-- User Authentication
-- Product Listings
-- Product Search
-- Shopping Cart
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
+---
+
+# 📌 Featured Projects
+
+## 🛒 E-Commerce Website
+
+- Authentication
+- Cart Management
 - Checkout Flow
-- Responsive Design
+- Responsive UI
+- Supabase Integration
 
-**Tech Stack:** Next.js, React.js, Supabase, PostgreSQL
+## 🖨️ PrintQ
 
----
-
-### 💻 Collaborative Online Compiler
-
-A real-time collaborative coding platform supporting:
-
-- Multi-user editing
-- Live synchronization
-- Multiple programming languages
-- Docker-based execution
-- WebSocket communication
-
-**Tech Stack:** Next.js, Supabase, Docker, WebSockets
-
----
-
-### 🏥 Doctor Appointment System
-
-Healthcare appointment management platform featuring:
-
+- Secure QR Authentication
+- JWT Token Verification
+- Shop Management
 - Admin Dashboard
-- Doctor & Patient Modules
-- Appointment Booking
-- Authentication & Authorization
-- Medical Record Sharing
+- Edge Functions
 
-**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
+## 🏥 Doctor Appointment System
+
+- Appointment Booking
+- Doctor & Patient Roles
+- Secure Authentication
+- Medical Record Management
+
+## 💻 Collaborative Online Compiler
+
+- Live Collaboration
+- Docker Execution
+- WebSocket Sync
+- Multi-language Support
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
----
-
-## 🏆 Goals for 2026
-
-- Build Production-Level SaaS Products
-- Master System Design
-- Contribute to Open Source
-- Secure a Software Developer Role
-- Learn AWS and DevOps
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
 
 ---
 
-## 📫 Connect With Me
+# 🎯 2026 Goals
+
+✅ Complete PrintQ
+
+✅ Deploy SaaS Products
+
+✅ Master Next.js
+
+✅ Learn AWS
+
+✅ Get Software Developer Role
+
+---
+
+# 📫 Contact
 
 📧 Email: syamaalu10@gmail.com
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/syam-prasad-k-568849375?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🌐 Portfolio: Add Your Portfolio URL
+🌐 Portfolio: https://syamprasad.xyz
 
 ---
 
-### "Code. Learn. Build. Repeat." 🚀
+⭐ Always learning, building and improving.
